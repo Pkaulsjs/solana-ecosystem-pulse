@@ -1,20 +1,20 @@
 {
   "rpc_healthy": true,
   "epoch": 1020,
-  "absolute_slot": 440933921,
-  "block_height": 418983282,
-  "slot_index": 293921,
+  "absolute_slot": 440981389,
+  "block_height": 419030735,
+  "slot_index": 341389,
   "slots_in_epoch": 432000,
-  "epoch_progress_pct": 68.04,
-  "transactions_count": 540701872046,
-  "epoch_hours_remaining": 15.3,
-  "tps_avg": 3306.8,
-  "slot_time_avg_s": 0.3659,
+  "epoch_progress_pct": 79.03,
+  "transactions_count": 540769327695,
+  "epoch_hours_remaining": 10.1,
+  "tps_avg": 3764.2,
+  "slot_time_avg_s": 0.3673,
   "median_priority_fee_microlamports": 0.0,
-  "validators_active": 685,
-  "validators_delinquent": 9,
+  "validators_active": 687,
+  "validators_delinquent": 8,
   "total_stake_sol": 433485334.0,
-  "delinquent_stake_pct": 0.02,
+  "delinquent_stake_pct": 0.014,
   "avg_commission_pct": 12.2,
   "top_validators": [
     {
@@ -428,14 +428,14 @@
     ],
     [
       1787356800,
-      5507989628
+      5514360956
     ]
   ],
-  "tvl_usd": 5507989628,
-  "tvl_7d_change_pct": 14.35,
-  "tvl_30d_change_pct": 10.82,
-  "stablecoin_supply_usd": 15871151130.0,
-  "stablecoin_supply_usd_pegged_usd": 15808794314.0,
+  "tvl_usd": 5514360956,
+  "tvl_7d_change_pct": 14.48,
+  "tvl_30d_change_pct": 10.95,
+  "stablecoin_supply_usd": 15871512100.0,
+  "stablecoin_supply_usd_pegged_usd": 15808847341.0,
   "dex_volume_history": [
     [
       1784851200,
@@ -555,25 +555,27 @@
     ],
     [
       1787356800,
-      3896731792.0
+      3817092674.0
     ]
   ],
-  "dex_volume_24h_usd": 3896731792.0,
+  "dex_volume_24h_usd": 3817092674.0,
   "dex_volume_7d_avg_usd": 2130760781.0,
   "fees_24h_usd": 898899,
   "fees_30d_usd": 18017508,
-  "sol_price_usd": 93.72,
-  "sol_price_24h_change_pct": 3.31,
-  "sol_market_cap_usd": 54668890674.67128,
-  "collected_at": "2026-08-22 13:41",
-  "collected_at_ts": 1787406097,
+  "sol_price_usd": 94.36,
+  "sol_price_24h_change_pct": 2.72,
+  "sol_market_cap_usd": 55025818380.69587,
+  "collected_at": "2026-08-22 18:32",
+  "collected_at_ts": 1787423534,
   "tvl_24h_change_pct": null,
   "tps_history": [
     3289.4,
-    3291.3
+    3291.3,
+    3306.8
   ],
   "price_history": [
     93.81,
-    93.76
+    93.76,
+    93.72
   ]
 }
