@@ -1,70 +1,70 @@
 {
   "rpc_healthy": true,
-  "epoch": 1024,
-  "absolute_slot": 442785294,
-  "block_height": 420833089,
-  "slot_index": 417294,
+  "epoch": 1025,
+  "absolute_slot": 442867727,
+  "block_height": 420915510,
+  "slot_index": 67727,
   "slots_in_epoch": 432000,
-  "epoch_progress_pct": 96.6,
-  "transactions_count": 543310926365,
-  "epoch_hours_remaining": 1.6,
-  "tps_avg": 3506.1,
-  "slot_time_avg_s": 0.3173,
+  "epoch_progress_pct": 15.68,
+  "transactions_count": 543398807403,
+  "epoch_hours_remaining": 40.5,
+  "tps_avg": 3178.5,
+  "slot_time_avg_s": 0.3163,
   "median_priority_fee_microlamports": 0.0,
-  "validators_active": 685,
-  "validators_delinquent": 12,
-  "total_stake_sol": 436134289.0,
-  "delinquent_stake_pct": 0.009,
-  "avg_commission_pct": 13.1,
+  "validators_active": 679,
+  "validators_delinquent": 18,
+  "total_stake_sol": 437127890.0,
+  "delinquent_stake_pct": 0.031,
+  "avg_commission_pct": 12.2,
   "top_validators": [
     {
       "name": "CcaHc2L4\u2026",
-      "stake_sol": 16991835.0,
+      "stake_sol": 17203741.0,
       "commission": 7
     },
     {
       "name": "he1iusun\u2026",
-      "stake_sol": 16035737.0,
+      "stake_sol": 16085807.0,
       "commission": 0
     },
     {
       "name": "3N7s9zXM\u2026",
-      "stake_sol": 12393242.0,
+      "stake_sol": 12389824.0,
       "commission": 0
     },
     {
       "name": "CatzoSMU\u2026",
-      "stake_sol": 11460007.0,
+      "stake_sol": 11479512.0,
       "commission": 5
     },
     {
-      "name": "26pV97Ce\u2026",
-      "stake_sol": 9292131.0,
-      "commission": 7
-    },
-    {
       "name": "8GbwASqd\u2026",
-      "stake_sol": 9081213.0,
+      "stake_sol": 9452658.0,
       "commission": 0
     },
     {
+      "name": "26pV97Ce\u2026",
+      "stake_sol": 9293056.0,
+      "commission": 7
+    },
+    {
       "name": "51JBzSTU\u2026",
-      "stake_sol": 9001204.0,
+      "stake_sol": 9023631.0,
       "commission": 10
     },
     {
       "name": "CvSb7wdQ\u2026",
-      "stake_sol": 7294487.0,
+      "stake_sol": 7295972.0,
       "commission": 5
     },
     {
       "name": "9QU2QSxh\u2026",
-      "stake_sol": 7192557.0,
+      "stake_sol": 7201762.0,
       "commission": 7
     },
     {
       "name": "DumiCKHV\u2026",
-      "stake_sol": 6585996.0,
+      "stake_sol": 6589845.0,
       "commission": 0
     }
   ],
@@ -424,18 +424,18 @@
     ],
     [
       1787961600,
-      5870947443
+      5869608059
     ],
     [
       1788048000,
-      5907484350
+      5890106821
     ]
   ],
-  "tvl_usd": 5907484350,
-  "tvl_7d_change_pct": 6.29,
-  "tvl_30d_change_pct": 22.35,
-  "stablecoin_supply_usd": 15950713591.0,
-  "stablecoin_supply_usd_pegged_usd": 15886455608.0,
+  "tvl_usd": 5890106821,
+  "tvl_7d_change_pct": 5.98,
+  "tvl_30d_change_pct": 21.99,
+  "stablecoin_supply_usd": 15927686570.0,
+  "stablecoin_supply_usd_pegged_usd": 15863441134.0,
   "dex_volume_history": [
     [
       1785542400,
@@ -551,23 +551,23 @@
     ],
     [
       1787961600,
-      1519983985.0
+      1670710752.0
     ],
     [
       1788048000,
-      1504930773.0
+      1616892978.0
     ]
   ],
-  "dex_volume_24h_usd": 1504930773.0,
-  "dex_volume_7d_avg_usd": 2718874120.0,
+  "dex_volume_24h_usd": 1616892978.0,
+  "dex_volume_7d_avg_usd": 2740406516.0,
   "fees_24h_usd": 826698,
   "fees_30d_usd": 21211636,
-  "sol_price_usd": 104.97,
-  "sol_price_24h_change_pct": 1.21,
-  "sol_market_cap_usd": 61412037431.80016,
-  "collected_at": "2026-08-30 04:13",
-  "collected_at_ts": 1788063181,
-  "tvl_24h_change_pct": 0.84,
+  "sol_price_usd": 105.11,
+  "sol_price_24h_change_pct": 1.51,
+  "sol_market_cap_usd": 61494149613.315125,
+  "collected_at": "2026-08-30 11:27",
+  "collected_at_ts": 1788089270,
+  "tvl_24h_change_pct": 0.55,
   "tps_history": [
     3289.4,
     3291.3,
@@ -595,7 +595,8 @@
     4690.9,
     3755.4,
     4117.7,
-    4030.5
+    4030.5,
+    3506.1
   ],
   "price_history": [
     93.81,
@@ -624,6 +625,7 @@
     103.55,
     103.78,
     105.05,
-    105.17
+    105.17,
+    104.97
   ]
 }
