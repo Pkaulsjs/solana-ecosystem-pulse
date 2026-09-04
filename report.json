@@ -1,79 +1,75 @@
 {
   "rpc_healthy": true,
-  "epoch": 1027,
-  "absolute_slot": 444064463,
-  "block_height": 422111155,
-  "slot_index": 400463,
+  "epoch": 1028,
+  "absolute_slot": 444141784,
+  "block_height": 422188111,
+  "slot_index": 45784,
   "slots_in_epoch": 432000,
-  "epoch_progress_pct": 92.7,
-  "transactions_count": 544883739252,
-  "epoch_hours_remaining": 3.5,
-  "tps_avg": 4375.5,
-  "slot_time_avg_s": 0.3168,
+  "epoch_progress_pct": 10.6,
+  "transactions_count": 544970884831,
+  "epoch_hours_remaining": 42.9,
+  "tps_avg": 3231.4,
+  "slot_time_avg_s": 0.3153,
   "median_priority_fee_microlamports": 0.0,
-  "validators_active": 676,
+  "validators_active": 675,
   "validators_delinquent": 19,
-  "total_stake_sol": 438422357.0,
-  "delinquent_stake_pct": 0.05,
-  "avg_commission_pct": 12.5,
+  "total_stake_sol": 436898866.0,
+  "delinquent_stake_pct": 0.07,
+  "avg_commission_pct": 12.2,
   "top_validators": [
     {
       "name": "CcaHc2L4\u2026",
-      "stake_sol": 17348904.0,
+      "stake_sol": 17393318.0,
       "commission": 7
     },
     {
       "name": "he1iusun\u2026",
-      "stake_sol": 16325737.0,
+      "stake_sol": 16324259.0,
       "commission": 0
     },
     {
       "name": "3N7s9zXM\u2026",
-      "stake_sol": 12462274.0,
+      "stake_sol": 12459602.0,
       "commission": 0
     },
     {
       "name": "CatzoSMU\u2026",
-      "stake_sol": 11304498.0,
+      "stake_sol": 11379843.0,
       "commission": 5
     },
     {
       "name": "8GbwASqd\u2026",
-      "stake_sol": 9565273.0,
+      "stake_sol": 9567623.0,
       "commission": 0
     },
     {
       "name": "26pV97Ce\u2026",
-      "stake_sol": 9285486.0,
+      "stake_sol": 9278151.0,
       "commission": 7
     },
     {
       "name": "51JBzSTU\u2026",
-      "stake_sol": 9040435.0,
+      "stake_sol": 9042760.0,
       "commission": 10
     },
     {
       "name": "9QU2QSxh\u2026",
-      "stake_sol": 7220140.0,
+      "stake_sol": 7376879.0,
       "commission": 7
     },
     {
       "name": "CvSb7wdQ\u2026",
-      "stake_sol": 7125475.0,
+      "stake_sol": 7127366.0,
       "commission": 5
     },
     {
       "name": "DumiCKHV\u2026",
-      "stake_sol": 6590653.0,
+      "stake_sol": 6593517.0,
       "commission": 0
     }
   ],
   "validators_for_33pct_stake": 18,
   "tvl_history": [
-    [
-      1780704000,
-      4725940957
-    ],
     [
       1780790400,
       4713797179
@@ -428,19 +424,19 @@
     ],
     [
       1788393600,
-      5980639607
+      5753178429
+    ],
+    [
+      1788480000,
+      5927196263
     ]
   ],
-  "tvl_usd": 5980639607,
-  "tvl_7d_change_pct": 3.58,
-  "tvl_30d_change_pct": 25.52,
-  "stablecoin_supply_usd": 15997777104.0,
-  "stablecoin_supply_usd_pegged_usd": 15932099393.0,
+  "tvl_usd": 5927196263,
+  "tvl_7d_change_pct": -1.43,
+  "tvl_30d_change_pct": 23.35,
+  "stablecoin_supply_usd": 16315056288.0,
+  "stablecoin_supply_usd_pegged_usd": 16249325326.0,
   "dex_volume_history": [
-    [
-      1785888000,
-      1628569945.0
-    ],
     [
       1785974400,
       1371081317.0
@@ -555,21 +551,24 @@
     ],
     [
       1788393600,
-      2411364187.0
+      2232034434.0
+    ],
+    [
+      1788480000,
+      2232774102.0
     ]
   ],
-  "dex_volume_24h_usd": 2411364187.0,
-  "dex_volume_7d_avg_usd": 2407624382.0,
+  "dex_volume_24h_usd": 2232774102.0,
+  "dex_volume_7d_avg_usd": 2197896464.0,
   "fees_24h_usd": 612579,
   "fees_30d_usd": 22256854,
-  "sol_price_usd": 105.06,
-  "sol_price_24h_change_pct": 5.24,
-  "sol_market_cap_usd": 61502119575.94523,
-  "collected_at": "2026-09-03 20:39",
-  "collected_at_ts": 1788467948,
-  "tvl_24h_change_pct": 5.49,
+  "sol_price_usd": 103.91,
+  "sol_price_24h_change_pct": 3.06,
+  "sol_market_cap_usd": 60816543894.93763,
+  "collected_at": "2026-09-04 03:25",
+  "collected_at_ts": 1788492333,
+  "tvl_24h_change_pct": 3.95,
   "tps_history": [
-    4456.7,
     4243.9,
     3261.9,
     3731.9,
@@ -598,10 +597,10 @@
     4087.5,
     3592.0,
     3885.5,
-    4601.1
+    4601.1,
+    4375.5
   ],
   "price_history": [
-    98.51,
     96.97,
     96.7,
     97.09,
@@ -630,6 +629,7 @@
     99.81,
     100.91,
     99.97,
-    104.99
+    104.99,
+    105.06
   ]
 }
