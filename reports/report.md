@@ -1,29 +1,29 @@
 # Solana Ecosystem Pulse
 
-_Snapshot: 2026-09-05 20:02 UTC — auto-generated, zero API keys._
+_Snapshot: 2026-09-06 03:27 UTC — auto-generated, zero API keys._
 
 ## ✓ No anomalies detected
 
 ## Network
 
-- **Epoch:** 1029 (17.98% complete, ~39.4h remaining)
-- **Throughput:** 3,405 TPS (60-sample avg), slot time 0.3152s
-- **Blocks:** height 422,650,106, total tx 545,472,662,431
+- **Epoch:** 1029 (37.55% complete, ~30.0h remaining)
+- **Throughput:** 3,681 TPS (60-sample avg), slot time 0.317s
+- **Blocks:** height 422,734,620, total tx 545,564,124,239
 - **Median priority fee:** 0 μlamports
 
 ## Validators
 
-- **Active:** 677 · **delinquent:** 16 (0.013% of stake)
+- **Active:** 676 · **delinquent:** 17 (0.018% of stake)
 - **Total stake:** 439,248,820 SOL · avg commission 12.5%
 - **Decentralization:** 18 validators hold ≥33% of stake
 
 ## Economy
 
-- **SOL price:** $103.44 (24h 1.6%)
-- **DeFi TVL:** $5.92B (7d 0.78%, 30d 23.1%)
-- **DEX volume 24h:** $1.65B
-- **Protocol fees 24h:** $531.25k · 30d $22.18M
-- **Stablecoin supply:** $16.38B
+- **SOL price:** $105.02 (24h 3.05%)
+- **DeFi TVL:** $5.91B (7d -0.01%, 30d 25.15%)
+- **DEX volume 24h:** $1.30B
+- **Protocol fees 24h:** $381.12k · 30d $22.04M
+- **Stablecoin supply:** $16.37B
 - **SOL supply:** n/a circulating / n/a total
 
 ## Top validators by stake
