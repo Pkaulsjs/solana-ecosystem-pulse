@@ -1,20 +1,20 @@
 {
   "rpc_healthy": true,
   "epoch": 1030,
-  "absolute_slot": 444962677,
-  "block_height": 423006959,
-  "slot_index": 2677,
+  "absolute_slot": 445058196,
+  "block_height": 423102462,
+  "slot_index": 98196,
   "slots_in_epoch": 432000,
-  "epoch_progress_pct": 0.62,
-  "transactions_count": 545887326874,
-  "epoch_hours_remaining": 47.7,
-  "tps_avg": 4390.4,
-  "slot_time_avg_s": 0.319,
+  "epoch_progress_pct": 22.73,
+  "transactions_count": 545993356376,
+  "epoch_hours_remaining": 37.1,
+  "tps_avg": 3361.9,
+  "slot_time_avg_s": 0.3166,
   "median_priority_fee_microlamports": 0.0,
-  "validators_active": 675,
-  "validators_delinquent": 13,
+  "validators_active": 674,
+  "validators_delinquent": 14,
   "total_stake_sol": 439477988.0,
-  "delinquent_stake_pct": 0.03,
+  "delinquent_stake_pct": 0.053,
   "avg_commission_pct": 12.5,
   "top_validators": [
     {
@@ -434,8 +434,8 @@
   "tvl_usd": 5924750516,
   "tvl_7d_change_pct": 0.23,
   "tvl_30d_change_pct": 25.46,
-  "stablecoin_supply_usd": 16437161053.0,
-  "stablecoin_supply_usd_pegged_usd": 16370548894.0,
+  "stablecoin_supply_usd": 16414626418.0,
+  "stablecoin_supply_usd_pegged_usd": 16349980116.0,
   "dex_volume_history": [
     [
       1786147200,
@@ -562,14 +562,13 @@
   "dex_volume_7d_avg_usd": 2072937853.0,
   "fees_24h_usd": 381125,
   "fees_30d_usd": 22044107,
-  "sol_price_usd": 105.28,
-  "sol_price_24h_change_pct": 0.53,
-  "sol_market_cap_usd": 61706245624.12547,
-  "collected_at": "2026-09-07 03:26",
-  "collected_at_ts": 1788751605,
-  "tvl_24h_change_pct": 0.24,
+  "sol_price_usd": 104.88,
+  "sol_price_24h_change_pct": -1.56,
+  "sol_market_cap_usd": 61477040092.62496,
+  "collected_at": "2026-09-07 11:50",
+  "collected_at_ts": 1788781853,
+  "tvl_24h_change_pct": 0.0,
   "tps_history": [
-    3178.5,
     4186.1,
     4270.4,
     3897.9,
@@ -598,10 +597,10 @@
     3681.4,
     3600.7,
     3970.4,
-    3819.7
+    3819.7,
+    4390.4
   ],
   "price_history": [
-    105.11,
     106.49,
     105.07,
     101.36,
@@ -630,6 +629,7 @@
     105.02,
     106.69,
     105.34,
-    105.4
+    105.4,
+    105.28
   ]
 }
