@@ -1,45 +1,45 @@
 # Solana Ecosystem Pulse
 
-_Snapshot: 2026-09-06 20:06 UTC — auto-generated, zero API keys._
+_Snapshot: 2026-09-07 03:26 UTC — auto-generated, zero API keys._
 
 ## ✓ No anomalies detected
 
 ## Network
 
-- **Epoch:** 1029 (81.36% complete, ~8.9h remaining)
-- **Throughput:** 3,820 TPS (60-sample avg), slot time 0.3167s
-- **Blocks:** height 422,923,784, total tx 545,785,451,879
+- **Epoch:** 1030 (0.62% complete, ~47.7h remaining)
+- **Throughput:** 4,390 TPS (60-sample avg), slot time 0.319s
+- **Blocks:** height 423,006,959, total tx 545,887,326,874
 - **Median priority fee:** 0 μlamports
 
 ## Validators
 
-- **Active:** 676 · **delinquent:** 17 (0.018% of stake)
-- **Total stake:** 439,248,820 SOL · avg commission 12.8%
+- **Active:** 675 · **delinquent:** 13 (0.03% of stake)
+- **Total stake:** 439,477,988 SOL · avg commission 12.5%
 - **Decentralization:** 18 validators hold ≥33% of stake
 
 ## Economy
 
-- **SOL price:** $105.4 (24h 1.91%)
+- **SOL price:** $105.28 (24h 0.53%)
 - **DeFi TVL:** $5.92B (7d 0.23%, 30d 25.46%)
 - **DEX volume 24h:** $1.31B
 - **Protocol fees 24h:** $381.12k · 30d $22.04M
-- **Stablecoin supply:** $16.42B
+- **Stablecoin supply:** $16.44B
 - **SOL supply:** n/a circulating / n/a total
 
 ## Top validators by stake
 
 | Validator | Stake (SOL) | Commission |
 |---|---|---|
-| CcaHc2L4… | 17,421,941 | 7% |
-| he1iusun… | 16,321,581 | 0% |
-| 3N7s9zXM… | 12,507,097 | 0% |
-| CatzoSMU… | 11,374,756 | 5% |
-| 8GbwASqd… | 9,561,892 | 0% |
-| 26pV97Ce… | 9,268,042 | 7% |
-| 51JBzSTU… | 9,037,668 | 10% |
-| 9QU2QSxh… | 7,352,604 | 7% |
-| CvSb7wdQ… | 7,128,761 | 5% |
-| DumiCKHV… | 6,594,606 | 0% |
+| CcaHc2L4… | 17,438,541 | 7% |
+| he1iusun… | 16,336,964 | 0% |
+| 3N7s9zXM… | 12,517,399 | 0% |
+| CatzoSMU… | 11,397,824 | 5% |
+| 8GbwASqd… | 9,564,412 | 0% |
+| 26pV97Ce… | 9,181,909 | 7% |
+| 51JBzSTU… | 9,038,443 | 10% |
+| 9QU2QSxh… | 7,384,461 | 7% |
+| CvSb7wdQ… | 6,858,929 | 5% |
+| DumiCKHV… | 6,595,421 | 0% |
 
 ---
 _Data: Solana JSON-RPC, DeFiLlama, CoinGecko. See [dashboard](dashboard.html) for the interactive view._
