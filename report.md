@@ -1,45 +1,45 @@
 # Solana Ecosystem Pulse
 
-_Snapshot: 2026-09-13 03:44 UTC — auto-generated, zero API keys._
+_Snapshot: 2026-09-13 11:16 UTC — auto-generated, zero API keys._
 
 ## ✓ No anomalies detected
 
 ## Network
 
-- **Epoch:** 1033 (80.36% complete, ~9.4h remaining)
-- **Throughput:** 3,831 TPS (60-sample avg), slot time 0.3152s
-- **Blocks:** height 424,645,875, total tx 547,920,005,253
+- **Epoch:** 1034 (0.28% complete, ~47.9h remaining)
+- **Throughput:** 3,432 TPS (60-sample avg), slot time 0.3157s
+- **Blocks:** height 424,731,894, total tx 548,014,077,577
 - **Median priority fee:** 0 μlamports
 
 ## Validators
 
-- **Active:** 677 · **delinquent:** 13 (0.419% of stake)
-- **Total stake:** 436,837,681 SOL · avg commission 12.8%
+- **Active:** 678 · **delinquent:** 11 (0.408% of stake)
+- **Total stake:** 438,740,367 SOL · avg commission 12.5%
 - **Decentralization:** 18 validators hold ≥33% of stake
 
 ## Economy
 
-- **SOL price:** $101.9 (24h 0.32%)
-- **DeFi TVL:** $5.91B (7d -0.15%, 30d 21.89%)
-- **DEX volume 24h:** $1.14B
+- **SOL price:** $99.61 (24h -2.4%)
+- **DeFi TVL:** $5.85B (7d -1.19%, 30d 20.62%)
+- **DEX volume 24h:** n/a
 - **Protocol fees 24h:** $708.83k · 30d $22.82M
-- **Stablecoin supply:** $16.21B
+- **Stablecoin supply:** $16.18B
 - **SOL supply:** n/a circulating / n/a total
 
 ## Top validators by stake
 
 | Validator | Stake (SOL) | Commission |
 |---|---|---|
-| CcaHc2L4… | 17,557,397 | 7% |
-| he1iusun… | 16,359,842 | 0% |
-| 3N7s9zXM… | 12,516,388 | 0% |
-| CatzoSMU… | 11,367,276 | 5% |
-| 8GbwASqd… | 9,667,435 | 0% |
-| 26pV97Ce… | 9,234,081 | 7% |
-| 51JBzSTU… | 9,021,415 | 10% |
-| 9QU2QSxh… | 7,357,834 | 7% |
-| CvSb7wdQ… | 6,941,562 | 5% |
-| DumiCKHV… | 6,551,099 | 0% |
+| CcaHc2L4… | 17,568,189 | 7% |
+| he1iusun… | 16,361,599 | 0% |
+| 3N7s9zXM… | 12,501,349 | 0% |
+| CatzoSMU… | 11,372,391 | 5% |
+| 8GbwASqd… | 9,619,665 | 0% |
+| 26pV97Ce… | 9,252,712 | 7% |
+| 51JBzSTU… | 9,025,175 | 10% |
+| 9QU2QSxh… | 7,367,885 | 7% |
+| CvSb7wdQ… | 6,943,003 | 5% |
+| DumiCKHV… | 6,552,506 | 0% |
 
 ---
 _Data: Solana JSON-RPC, DeFiLlama, CoinGecko. See [dashboard](dashboard.html) for the interactive view._
