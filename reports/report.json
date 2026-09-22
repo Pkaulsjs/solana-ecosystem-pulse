@@ -1,70 +1,70 @@
 {
   "rpc_healthy": true,
-  "epoch": 1039,
-  "absolute_slot": 449261847,
-  "block_height": 427302339,
-  "slot_index": 413847,
+  "epoch": 1040,
+  "absolute_slot": 449360768,
+  "block_height": 427401183,
+  "slot_index": 80768,
   "slots_in_epoch": 432000,
-  "epoch_progress_pct": 95.8,
-  "transactions_count": 551188519679,
-  "epoch_hours_remaining": 2.0,
-  "tps_avg": 4498.7,
-  "slot_time_avg_s": 0.2671,
+  "epoch_progress_pct": 18.7,
+  "transactions_count": 551295874476,
+  "epoch_hours_remaining": 39.0,
+  "tps_avg": 3917.4,
+  "slot_time_avg_s": 0.2662,
   "median_priority_fee_microlamports": 0.0,
-  "validators_active": 677,
-  "validators_delinquent": 14,
-  "total_stake_sol": 439905519.0,
-  "delinquent_stake_pct": 0.045,
-  "avg_commission_pct": 12.7,
+  "validators_active": 676,
+  "validators_delinquent": 13,
+  "total_stake_sol": 439861749.0,
+  "delinquent_stake_pct": 0.095,
+  "avg_commission_pct": 12.4,
   "top_validators": [
     {
       "name": "CcaHc2L4\u2026",
-      "stake_sol": 17856583.0,
+      "stake_sol": 17826722.0,
       "commission": 7
     },
     {
       "name": "he1iusun\u2026",
-      "stake_sol": 15828384.0,
+      "stake_sol": 15840698.0,
       "commission": 0
     },
     {
       "name": "3N7s9zXM\u2026",
-      "stake_sol": 12518302.0,
+      "stake_sol": 12354353.0,
       "commission": 0
     },
     {
       "name": "CatzoSMU\u2026",
-      "stake_sol": 11252588.0,
+      "stake_sol": 11265429.0,
       "commission": 5
     },
     {
       "name": "8GbwASqd\u2026",
-      "stake_sol": 9788818.0,
+      "stake_sol": 10210832.0,
       "commission": 0
     },
     {
       "name": "26pV97Ce\u2026",
-      "stake_sol": 9251354.0,
+      "stake_sol": 9211356.0,
       "commission": 7
     },
     {
       "name": "51JBzSTU\u2026",
-      "stake_sol": 9106985.0,
+      "stake_sol": 9144102.0,
       "commission": 10
     },
     {
       "name": "9QU2QSxh\u2026",
-      "stake_sol": 7443840.0,
+      "stake_sol": 7458789.0,
       "commission": 7
     },
     {
       "name": "CvSb7wdQ\u2026",
-      "stake_sol": 7088079.0,
+      "stake_sol": 7089342.0,
       "commission": 5
     },
     {
       "name": "DumiCKHV\u2026",
-      "stake_sol": 6572007.0,
+      "stake_sol": 6555722.0,
       "commission": 0
     }
   ],
@@ -424,18 +424,18 @@
     ],
     [
       1789948800,
-      6297863597
+      6205767746
     ],
     [
       1790035200,
-      6479670081
+      6456812229
     ]
   ],
-  "tvl_usd": 6479670081,
-  "tvl_7d_change_pct": 9.48,
-  "tvl_30d_change_pct": 16.33,
-  "stablecoin_supply_usd": 15951369393.0,
-  "stablecoin_supply_usd_pegged_usd": 15889852878.0,
+  "tvl_usd": 6456812229,
+  "tvl_7d_change_pct": 9.09,
+  "tvl_30d_change_pct": 15.92,
+  "stablecoin_supply_usd": 15851819967.0,
+  "stablecoin_supply_usd_pegged_usd": 15790370161.0,
   "dex_volume_history": [
     [
       1787529600,
@@ -551,25 +551,24 @@
     ],
     [
       1789948800,
-      2031185174.0
+      2916226940.0
     ],
     [
       1790035200,
-      2028889599.0
+      2868955728.0
     ]
   ],
-  "dex_volume_24h_usd": 2028889599.0,
-  "dex_volume_7d_avg_usd": 2762094880.0,
+  "dex_volume_24h_usd": 2868955728.0,
+  "dex_volume_7d_avg_usd": 2888529418.0,
   "fees_24h_usd": 1095904,
   "fees_30d_usd": 23577741,
-  "sol_price_usd": 116.71,
-  "sol_price_24h_change_pct": 4.48,
-  "sol_market_cap_usd": 68559082149.99394,
-  "collected_at": "2026-09-22 03:49",
-  "collected_at_ts": 1790048953,
-  "tvl_24h_change_pct": 3.15,
+  "sol_price_usd": 116.73,
+  "sol_price_24h_change_pct": 0.41,
+  "sol_market_cap_usd": 68572009915.198586,
+  "collected_at": "2026-09-22 11:08",
+  "collected_at_ts": 1790075293,
+  "tvl_24h_change_pct": 0.89,
   "tps_history": [
-    3709.7,
     3606.3,
     4089.1,
     3873.1,
@@ -598,10 +597,10 @@
     5001.9,
     4282.0,
     4124.4,
-    4645.8
+    4645.8,
+    4498.7
   ],
   "price_history": [
-    100.79,
     101.35,
     103.57,
     101.57,
@@ -629,6 +628,7 @@
     110.21,
     111.7,
     116.72,
-    119.48
+    119.48,
+    116.71
   ]
 }
