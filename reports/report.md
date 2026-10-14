@@ -1,45 +1,45 @@
 # Solana Ecosystem Pulse
 
-_Snapshot: 2026-10-13 22:23 UTC — auto-generated, zero API keys._
+_Snapshot: 2026-10-14 03:57 UTC — auto-generated, zero API keys._
 
 ## ✓ No anomalies detected
 
 ## Network
 
-- **Epoch:** 1056 (95.63% complete, ~2.1h remaining)
-- **Throughput:** 5,120 TPS (60-sample avg), slot time 0.2178s
-- **Blocks:** height 434,641,466, total tx 559,773,322,426
+- **Epoch:** 1057 (16.9% complete, ~39.9h remaining)
+- **Throughput:** 4,927 TPS (60-sample avg), slot time 0.2182s
+- **Blocks:** height 434,733,348, total tx 559,870,934,044
 - **Median priority fee:** 0 μlamports
 
 ## Validators
 
-- **Active:** 673 · **delinquent:** 7 (0.012% of stake)
-- **Total stake:** 438,790,522 SOL · avg commission 13.1%
+- **Active:** 673 · **delinquent:** 5 (0.001% of stake)
+- **Total stake:** 438,131,312 SOL · avg commission 12.8%
 - **Decentralization:** 18 validators hold ≥33% of stake
 
 ## Economy
 
-- **SOL price:** $106.84 (24h -0.13%)
-- **DeFi TVL:** $6.03B (7d -10.71%, 30d 2.53%)
-- **DEX volume 24h:** $2.29B
-- **Protocol fees 24h:** $830.22k · 30d $27.81M
-- **Stablecoin supply:** $16.03B
+- **SOL price:** $107.93 (24h 0.52%)
+- **DeFi TVL:** $6.04B (7d -8.41%, 30d 3.96%)
+- **DEX volume 24h:** $1.24B
+- **Protocol fees 24h:** $790.54k · 30d $27.99M
+- **Stablecoin supply:** $16.12B
 - **SOL supply:** n/a circulating / n/a total
 
 ## Top validators by stake
 
 | Validator | Stake (SOL) | Commission |
 |---|---|---|
-| CcaHc2L4… | 17,789,243 | 7% |
-| he1iusun… | 15,958,932 | 0% |
-| 3N7s9zXM… | 12,305,752 | 0% |
-| 8GbwASqd… | 11,149,129 | 0% |
-| CatzoSMU… | 10,758,268 | 5% |
-| 51JBzSTU… | 9,401,788 | 10% |
-| 26pV97Ce… | 9,237,163 | 7% |
-| 9QU2QSxh… | 7,681,229 | 7% |
-| CvSb7wdQ… | 6,812,456 | 5% |
-| 3JD3jMmn… | 6,638,148 | 0% |
+| CcaHc2L4… | 17,794,097 | 7% |
+| he1iusun… | 15,830,160 | 0% |
+| 3N7s9zXM… | 12,313,027 | 0% |
+| 8GbwASqd… | 11,142,984 | 0% |
+| CatzoSMU… | 10,763,192 | 5% |
+| 51JBzSTU… | 9,407,225 | 10% |
+| 26pV97Ce… | 9,240,434 | 7% |
+| 9QU2QSxh… | 7,700,931 | 7% |
+| CvSb7wdQ… | 6,906,931 | 5% |
+| 3JD3jMmn… | 6,638,868 | 0% |
 
 ---
 _Data: Solana JSON-RPC, DeFiLlama, CoinGecko. See [dashboard](dashboard.html) for the interactive view._
