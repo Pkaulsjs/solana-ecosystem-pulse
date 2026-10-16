@@ -1,17 +1,17 @@
 {
   "rpc_healthy": true,
   "epoch": 1059,
-  "absolute_slot": 457489137,
-  "block_height": 435524967,
-  "slot_index": 1137,
+  "absolute_slot": 457611619,
+  "block_height": 435647437,
+  "slot_index": 123619,
   "slots_in_epoch": 432000,
-  "epoch_progress_pct": 0.26,
-  "transactions_count": 560739662698,
-  "epoch_hours_remaining": 47.9,
-  "tps_avg": 4816.9,
-  "slot_time_avg_s": 0.2158,
+  "epoch_progress_pct": 28.62,
+  "transactions_count": 560863431390,
+  "epoch_hours_remaining": 34.3,
+  "tps_avg": 4550.8,
+  "slot_time_avg_s": 0.2152,
   "median_priority_fee_microlamports": 0.0,
-  "validators_active": 672,
+  "validators_active": 671,
   "validators_delinquent": 9,
   "total_stake_sol": 437782540.0,
   "delinquent_stake_pct": 0.0,
@@ -364,31 +364,31 @@
     ],
     [
       1790726400,
-      6534522735
+      6484533082
     ],
     [
       1790812800,
-      6474779525
+      6424788257
     ],
     [
       1790899200,
-      6542645905
+      6472628038
     ],
     [
       1790985600,
-      6591102763
+      6501097563
     ],
     [
       1791072000,
-      6578980985
+      6488973360
     ],
     [
       1791158400,
-      6694678378
+      6594657908
     ],
     [
       1791244800,
-      6753085741
+      6577705775
     ],
     [
       1791331200,
@@ -424,18 +424,18 @@
     ],
     [
       1792022400,
-      5944874882
+      5938826040
     ],
     [
       1792108800,
-      5981754731
+      5992199321
     ]
   ],
-  "tvl_usd": 5981754731,
-  "tvl_7d_change_pct": -3.19,
-  "tvl_30d_change_pct": 4.95,
-  "stablecoin_supply_usd": 15906811562.0,
-  "stablecoin_supply_usd_pegged_usd": 15833973706.0,
+  "tvl_usd": 5992199321,
+  "tvl_7d_change_pct": -3.02,
+  "tvl_30d_change_pct": 5.14,
+  "stablecoin_supply_usd": 15801480748.0,
+  "stablecoin_supply_usd_pegged_usd": 15729509559.0,
   "dex_volume_history": [
     [
       1789603200,
@@ -551,25 +551,24 @@
     ],
     [
       1792022400,
-      1092496808.0
+      2217350028.0
     ],
     [
       1792108800,
-      1074866434.0
+      2040268097.0
     ]
   ],
-  "dex_volume_24h_usd": 1074866434.0,
-  "dex_volume_7d_avg_usd": 1782990577.0,
+  "dex_volume_24h_usd": 2040268097.0,
+  "dex_volume_7d_avg_usd": 1943683894.0,
   "fees_24h_usd": 811041,
   "fees_30d_usd": 28216532,
-  "sol_price_usd": 105.18,
-  "sol_price_24h_change_pct": 2.84,
-  "sol_market_cap_usd": 61978447108.43768,
-  "collected_at": "2026-10-16 03:35",
-  "collected_at_ts": 1792121723,
-  "tvl_24h_change_pct": 0.82,
+  "sol_price_usd": 106.54,
+  "sol_price_24h_change_pct": 4.19,
+  "sol_market_cap_usd": 62785933109.15568,
+  "collected_at": "2026-10-16 10:55",
+  "collected_at_ts": 1792148122,
+  "tvl_24h_change_pct": 1.49,
   "tps_history": [
-    4511.8,
     4736.8,
     4096.2,
     4400.0,
@@ -598,10 +597,10 @@
     5355.6,
     4571.6,
     5680.6,
-    5290.4
+    5290.4,
+    4816.9
   ],
   "price_history": [
-    120.85,
     120.64,
     120.04,
     120.44,
@@ -630,6 +629,7 @@
     102.12,
     102.31,
     105.4,
-    105.48
+    105.48,
+    105.18
   ]
 }
