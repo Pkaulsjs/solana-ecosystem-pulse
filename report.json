@@ -1,70 +1,70 @@
 {
   "rpc_healthy": true,
-  "epoch": 1064,
-  "absolute_slot": 460015954,
-  "block_height": 438049763,
-  "slot_index": 367954,
+  "epoch": 1065,
+  "absolute_slot": 460108625,
+  "block_height": 438141294,
+  "slot_index": 28625,
   "slots_in_epoch": 432000,
-  "epoch_progress_pct": 85.17,
-  "transactions_count": 563202757942,
-  "epoch_hours_remaining": 7.1,
-  "tps_avg": 2088.3,
-  "slot_time_avg_s": 0.2119,
+  "epoch_progress_pct": 6.63,
+  "transactions_count": 563246761159,
+  "epoch_hours_remaining": 44.8,
+  "tps_avg": 2332.1,
+  "slot_time_avg_s": 0.2114,
   "median_priority_fee_microlamports": 0.0,
-  "validators_active": 668,
-  "validators_delinquent": 9,
-  "total_stake_sol": 438868046.0,
-  "delinquent_stake_pct": 0.005,
-  "avg_commission_pct": 13.2,
+  "validators_active": 656,
+  "validators_delinquent": 20,
+  "total_stake_sol": 438318925.0,
+  "delinquent_stake_pct": 0.295,
+  "avg_commission_pct": 12.9,
   "top_validators": [
     {
       "name": "CcaHc2L4\u2026",
-      "stake_sol": 17130984.0,
+      "stake_sol": 17133144.0,
       "commission": 7
     },
     {
       "name": "he1iusun\u2026",
-      "stake_sol": 15955653.0,
+      "stake_sol": 15968621.0,
       "commission": 0
     },
     {
       "name": "3N7s9zXM\u2026",
-      "stake_sol": 12545894.0,
+      "stake_sol": 12556096.0,
       "commission": 0
     },
     {
       "name": "8GbwASqd\u2026",
-      "stake_sol": 10933491.0,
+      "stake_sol": 10936237.0,
       "commission": 0
     },
     {
       "name": "CatzoSMU\u2026",
-      "stake_sol": 9728193.0,
+      "stake_sol": 9726420.0,
       "commission": 5
     },
     {
       "name": "51JBzSTU\u2026",
-      "stake_sol": 9480474.0,
+      "stake_sol": 9476174.0,
       "commission": 10
     },
     {
       "name": "26pV97Ce\u2026",
-      "stake_sol": 9252296.0,
+      "stake_sol": 9244629.0,
       "commission": 7
     },
     {
       "name": "9QU2QSxh\u2026",
-      "stake_sol": 7808122.0,
+      "stake_sol": 7797559.0,
       "commission": 7
     },
     {
       "name": "CvSb7wdQ\u2026",
-      "stake_sol": 7035085.0,
+      "stake_sol": 7036293.0,
       "commission": 5
     },
     {
       "name": "DumiCKHV\u2026",
-      "stake_sol": 7001557.0,
+      "stake_sol": 7002101.0,
       "commission": 0
     }
   ],
@@ -424,18 +424,18 @@
     ],
     [
       1792540800,
-      5965679665
+      5965594197
     ],
     [
       1792627200,
-      5875159786
+      5945662265
     ]
   ],
-  "tvl_usd": 5875159786,
-  "tvl_7d_change_pct": -1.01,
-  "tvl_30d_change_pct": -8.68,
-  "stablecoin_supply_usd": 15888159406.0,
-  "stablecoin_supply_usd_pegged_usd": 15821302520.0,
+  "tvl_usd": 5945662265,
+  "tvl_7d_change_pct": 0.18,
+  "tvl_30d_change_pct": -7.59,
+  "stablecoin_supply_usd": 15916410691.0,
+  "stablecoin_supply_usd_pegged_usd": 15850169812.0,
   "dex_volume_history": [
     [
       1790121600,
@@ -487,7 +487,7 @@
     ],
     [
       1791158400,
-      2057332534.0
+      2057332574.0
     ],
     [
       1791244800,
@@ -551,25 +551,24 @@
     ],
     [
       1792540800,
-      1374772631.0
+      2270402206.0
     ],
     [
       1792627200,
-      1353743875.0
+      2231629490.0
     ]
   ],
-  "dex_volume_24h_usd": 1353743875.0,
-  "dex_volume_7d_avg_usd": 1936287146.0,
+  "dex_volume_24h_usd": 2231629490.0,
+  "dex_volume_7d_avg_usd": 2064234228.0,
   "fees_24h_usd": 732119,
   "fees_30d_usd": 27329598,
-  "sol_price_usd": 104.48,
-  "sol_price_24h_change_pct": -2.1,
-  "sol_market_cap_usd": 61604277166.1906,
-  "collected_at": "2026-10-22 11:19",
-  "collected_at_ts": 1792667996,
-  "tvl_24h_change_pct": -1.59,
+  "sol_price_usd": 104.16,
+  "sol_price_24h_change_pct": -3.95,
+  "sol_market_cap_usd": 61416575926.01982,
+  "collected_at": "2026-10-22 16:47",
+  "collected_at_ts": 1792687652,
+  "tvl_24h_change_pct": -1.08,
   "tps_history": [
-    5342.4,
     5502.0,
     5355.6,
     4571.6,
@@ -598,10 +597,10 @@
     4837.3,
     2264.1,
     2049.8,
-    1761.5
+    1761.5,
+    2088.3
   ],
   "price_history": [
-    104.5,
     103.94,
     102.12,
     102.31,
@@ -630,6 +629,7 @@
     106.71,
     108.44,
     107.9,
-    105.2
+    105.2,
+    104.48
   ]
 }
