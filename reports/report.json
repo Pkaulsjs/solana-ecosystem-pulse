@@ -1,15 +1,15 @@
 {
   "rpc_healthy": true,
   "epoch": 1067,
-  "absolute_slot": 461231081,
-  "block_height": 439259878,
-  "slot_index": 287081,
+  "absolute_slot": 461312248,
+  "block_height": 439340957,
+  "slot_index": 368248,
   "slots_in_epoch": 432000,
-  "epoch_progress_pct": 66.45,
-  "transactions_count": 563671725979,
-  "epoch_hours_remaining": 16.1,
-  "tps_avg": 1200.8,
-  "slot_time_avg_s": 0.2118,
+  "epoch_progress_pct": 85.24,
+  "transactions_count": 563696538594,
+  "epoch_hours_remaining": 7.1,
+  "tps_avg": 1676.3,
+  "slot_time_avg_s": 0.2124,
   "median_priority_fee_microlamports": 0.0,
   "validators_active": 665,
   "validators_delinquent": 25,
@@ -428,14 +428,14 @@
     ],
     [
       1792886400,
-      5726942160
+      5717786047
     ]
   ],
-  "tvl_usd": 5726942160,
-  "tvl_7d_change_pct": -2.87,
-  "tvl_30d_change_pct": -11.29,
-  "stablecoin_supply_usd": 15599051385.0,
-  "stablecoin_supply_usd_pegged_usd": 15514886057.0,
+  "tvl_usd": 5717786047,
+  "tvl_7d_change_pct": -3.02,
+  "tvl_30d_change_pct": -11.43,
+  "stablecoin_supply_usd": 15582377513.0,
+  "stablecoin_supply_usd_pegged_usd": 15498233975.0,
   "dex_volume_history": [
     [
       1790380800,
@@ -551,25 +551,24 @@
     ],
     [
       1792800000,
-      1289987803.0
+      1423041351.0
     ],
     [
       1792886400,
-      1257559483.0
+      1395601796.0
     ]
   ],
-  "dex_volume_24h_usd": 1257559483.0,
-  "dex_volume_7d_avg_usd": 1936511077.0,
+  "dex_volume_24h_usd": 1395601796.0,
+  "dex_volume_7d_avg_usd": 1955518727.0,
   "fees_24h_usd": 477322,
   "fees_30d_usd": 25937465,
-  "sol_price_usd": 100.59,
-  "sol_price_24h_change_pct": -0.92,
-  "sol_market_cap_usd": 59324299135.20191,
-  "collected_at": "2026-10-25 10:55",
-  "collected_at_ts": 1792925736,
-  "tvl_24h_change_pct": -0.5,
+  "sol_price_usd": 101.68,
+  "sol_price_24h_change_pct": 2.75,
+  "sol_market_cap_usd": 59965639729.91793,
+  "collected_at": "2026-10-25 15:42",
+  "collected_at_ts": 1792942965,
+  "tvl_24h_change_pct": -0.19,
   "tps_history": [
-    4908.3,
     4696.3,
     4907.0,
     4494.1,
@@ -598,10 +597,10 @@
     1595.1,
     2288.7,
     1924.3,
-    1925.5
+    1925.5,
+    1200.8
   ],
   "price_history": [
-    104.08,
     104.0,
     103.91,
     104.17,
@@ -630,6 +629,7 @@
     101.41,
     98.82,
     101.47,
-    102.33
+    102.33,
+    100.59
   ]
 }
