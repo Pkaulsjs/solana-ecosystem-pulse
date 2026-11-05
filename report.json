@@ -1,74 +1,74 @@
 {
   "rpc_healthy": true,
-  "epoch": 1077,
-  "absolute_slot": 465589904,
-  "block_height": 443610145,
-  "slot_index": 325904,
+  "epoch": 1078,
+  "absolute_slot": 465734328,
+  "block_height": 443754389,
+  "slot_index": 38328,
   "slots_in_epoch": 432000,
-  "epoch_progress_pct": 75.44,
-  "transactions_count": 565301150637,
-  "epoch_hours_remaining": 11.8,
-  "tps_avg": 1354.4,
-  "slot_time_avg_s": 0.2138,
+  "epoch_progress_pct": 8.87,
+  "transactions_count": 565341716750,
+  "epoch_hours_remaining": 43.7,
+  "tps_avg": 1633.7,
+  "slot_time_avg_s": 0.2133,
   "median_priority_fee_microlamports": 0.0,
-  "validators_active": 661,
-  "validators_delinquent": 32,
-  "total_stake_sol": 433017789.0,
-  "delinquent_stake_pct": 1.035,
-  "avg_commission_pct": 12.6,
+  "validators_active": 663,
+  "validators_delinquent": 31,
+  "total_stake_sol": 430872482.0,
+  "delinquent_stake_pct": 0.134,
+  "avg_commission_pct": 12.7,
   "top_validators": [
     {
       "name": "CcaHc2L4\u2026",
-      "stake_sol": 17036631.0,
+      "stake_sol": 17063613.0,
       "commission": 7
     },
     {
       "name": "he1iusun\u2026",
-      "stake_sol": 16710689.0,
+      "stake_sol": 16736546.0,
       "commission": 0
     },
     {
       "name": "3N7s9zXM\u2026",
-      "stake_sol": 13012272.0,
+      "stake_sol": 13020024.0,
       "commission": 0
     },
     {
       "name": "8GbwASqd\u2026",
-      "stake_sol": 10433406.0,
+      "stake_sol": 10434901.0,
       "commission": 0
     },
     {
       "name": "CatzoSMU\u2026",
-      "stake_sol": 9524736.0,
+      "stake_sol": 9530733.0,
       "commission": 5
     },
     {
       "name": "51JBzSTU\u2026",
-      "stake_sol": 9439186.0,
+      "stake_sol": 9459109.0,
       "commission": 10
     },
     {
       "name": "26pV97Ce\u2026",
-      "stake_sol": 9217930.0,
+      "stake_sol": 9222692.0,
       "commission": 7
     },
     {
       "name": "9QU2QSxh\u2026",
-      "stake_sol": 7826697.0,
+      "stake_sol": 7860096.0,
       "commission": 7
     },
     {
       "name": "DumiCKHV\u2026",
-      "stake_sol": 6981457.0,
+      "stake_sol": 6991477.0,
       "commission": 0
     },
     {
-      "name": "CvSb7wdQ\u2026",
-      "stake_sol": 6980105.0,
-      "commission": 5
+      "name": "3JD3jMmn\u2026",
+      "stake_sol": 6293076.0,
+      "commission": 0
     }
   ],
-  "validators_for_33pct_stake": 17,
+  "validators_for_33pct_stake": 18,
   "tvl_history": [
     [
       1786147200,
@@ -424,18 +424,18 @@
     ],
     [
       1793750400,
-      5382696581
+      5382696580
     ],
     [
       1793836800,
-      5545121442
+      5528297479
     ]
   ],
-  "tvl_usd": 5545121442,
-  "tvl_7d_change_pct": -2.63,
-  "tvl_30d_change_pct": -15.42,
-  "stablecoin_supply_usd": 14884088986.0,
-  "stablecoin_supply_usd_pegged_usd": 14801898946.0,
+  "tvl_usd": 5528297479,
+  "tvl_7d_change_pct": -2.92,
+  "tvl_30d_change_pct": -15.68,
+  "stablecoin_supply_usd": 14874251923.0,
+  "stablecoin_supply_usd_pegged_usd": 14796410010.0,
   "dex_volume_history": [
     [
       1791331200,
@@ -551,25 +551,24 @@
     ],
     [
       1793750400,
-      1195283016.0
+      2385538830.0
     ],
     [
       1793836800,
-      1154348322.0
+      2264478176.0
     ]
   ],
-  "dex_volume_24h_usd": 1154348322.0,
-  "dex_volume_7d_avg_usd": 1600160245.0,
+  "dex_volume_24h_usd": 2264478176.0,
+  "dex_volume_7d_avg_usd": 1770196790.0,
   "fees_24h_usd": 579751,
   "fees_30d_usd": 19867140,
-  "sol_price_usd": 96.02,
-  "sol_price_24h_change_pct": 3.81,
-  "sol_market_cap_usd": 56665194287.189255,
-  "collected_at": "2026-11-05 05:37",
-  "collected_at_ts": 1793857067,
-  "tvl_24h_change_pct": 3.67,
+  "sol_price_usd": 95.25,
+  "sol_price_24h_change_pct": 2.74,
+  "sol_market_cap_usd": 56226451273.0964,
+  "collected_at": "2026-11-05 14:11",
+  "collected_at_ts": 1793887873,
+  "tvl_24h_change_pct": 1.75,
   "tps_history": [
-    1663.7,
     1852.6,
     1767.5,
     1390.2,
@@ -598,10 +597,10 @@
     2407.0,
     1849.5,
     1671.3,
-    2093.9
+    2093.9,
+    1354.4
   ],
   "price_history": [
-    101.6,
     100.28,
     100.05,
     99.97,
@@ -630,6 +629,7 @@
     93.47,
     92.08,
     92.81,
-    95.5
+    95.5,
+    96.02
   ]
 }
