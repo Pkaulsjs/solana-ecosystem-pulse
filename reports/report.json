@@ -1,79 +1,75 @@
 {
   "rpc_healthy": true,
-  "epoch": 1081,
-  "absolute_slot": 467368128,
-  "block_height": 445386024,
-  "slot_index": 376128,
+  "epoch": 1082,
+  "absolute_slot": 467532215,
+  "block_height": 445549903,
+  "slot_index": 108215,
   "slots_in_epoch": 432000,
-  "epoch_progress_pct": 87.07,
-  "transactions_count": 565913451708,
-  "epoch_hours_remaining": 6.2,
-  "tps_avg": 2500.2,
-  "slot_time_avg_s": 0.2151,
+  "epoch_progress_pct": 25.05,
+  "transactions_count": 565976995256,
+  "epoch_hours_remaining": 36.0,
+  "tps_avg": 1448.8,
+  "slot_time_avg_s": 0.2141,
   "median_priority_fee_microlamports": 0.0,
-  "validators_active": 661,
-  "validators_delinquent": 36,
-  "total_stake_sol": 433920561.0,
-  "delinquent_stake_pct": 0.178,
-  "avg_commission_pct": 13.0,
+  "validators_active": 657,
+  "validators_delinquent": 41,
+  "total_stake_sol": 434984472.0,
+  "delinquent_stake_pct": 0.224,
+  "avg_commission_pct": 12.7,
   "top_validators": [
     {
       "name": "CcaHc2L4\u2026",
-      "stake_sol": 17050553.0,
+      "stake_sol": 16898208.0,
       "commission": 7
     },
     {
       "name": "he1iusun\u2026",
-      "stake_sol": 16720131.0,
+      "stake_sol": 16746254.0,
       "commission": 0
     },
     {
       "name": "3N7s9zXM\u2026",
-      "stake_sol": 13021912.0,
+      "stake_sol": 13034244.0,
       "commission": 0
     },
     {
       "name": "8GbwASqd\u2026",
-      "stake_sol": 10279070.0,
+      "stake_sol": 10280950.0,
       "commission": 0
     },
     {
-      "name": "CatzoSMU\u2026",
-      "stake_sol": 9553388.0,
-      "commission": 5
-    },
-    {
       "name": "51JBzSTU\u2026",
-      "stake_sol": 9550278.0,
+      "stake_sol": 9598549.0,
       "commission": 10
     },
     {
+      "name": "CatzoSMU\u2026",
+      "stake_sol": 9553851.0,
+      "commission": 5
+    },
+    {
       "name": "26pV97Ce\u2026",
-      "stake_sol": 9222876.0,
+      "stake_sol": 9233159.0,
       "commission": 7
     },
     {
       "name": "9QU2QSxh\u2026",
-      "stake_sol": 7775137.0,
+      "stake_sol": 7813316.0,
       "commission": 7
     },
     {
       "name": "DumiCKHV\u2026",
-      "stake_sol": 6980319.0,
+      "stake_sol": 6987971.0,
       "commission": 0
     },
     {
       "name": "CvSb7wdQ\u2026",
-      "stake_sol": 6711284.0,
+      "stake_sol": 6712231.0,
       "commission": 5
     }
   ],
   "validators_for_33pct_stake": 18,
   "tvl_history": [
-    [
-      1786492800,
-      4834261113
-    ],
     [
       1786579200,
       4794345658
@@ -428,14 +424,18 @@
     ],
     [
       1794182400,
-      5064751275
+      5063417863
+    ],
+    [
+      1794268800,
+      5063413830
     ]
   ],
-  "tvl_usd": 5064751275,
-  "tvl_7d_change_pct": -7.28,
-  "tvl_30d_change_pct": -17.53,
-  "stablecoin_supply_usd": 14805106753.0,
-  "stablecoin_supply_usd_pegged_usd": 14725450044.0,
+  "tvl_usd": 5063413830,
+  "tvl_7d_change_pct": -6.3,
+  "tvl_30d_change_pct": -17.83,
+  "stablecoin_supply_usd": 14561726575.0,
+  "stablecoin_supply_usd_pegged_usd": 14480829877.0,
   "dex_volume_history": [
     [
       1791676800,
@@ -555,21 +555,20 @@
     ],
     [
       1794182400,
-      1181943433.0
+      496133485.0
     ]
   ],
-  "dex_volume_24h_usd": 1181943433.0,
+  "dex_volume_24h_usd": 496133485.0,
   "dex_volume_7d_avg_usd": 1679774051.0,
   "fees_24h_usd": 408025,
   "fees_30d_usd": 17864286,
-  "sol_price_usd": 87.43,
-  "sol_price_24h_change_pct": -2.44,
-  "sol_market_cap_usd": 51678914038.49477,
-  "collected_at": "2026-11-09 15:29",
-  "collected_at_ts": 1794238162,
-  "tvl_24h_change_pct": -2.44,
+  "sol_price_usd": 86.61,
+  "sol_price_24h_change_pct": -0.67,
+  "sol_market_cap_usd": 51203873843.4774,
+  "collected_at": "2026-11-10 01:16",
+  "collected_at_ts": 1794273390,
+  "tvl_24h_change_pct": -0.92,
   "tps_history": [
-    1598.6,
     1300.3,
     1578.4,
     1287.5,
@@ -598,10 +597,10 @@
     1431.2,
     1082.1,
     1614.3,
-    1236.1
+    1236.1,
+    2500.2
   ],
   "price_history": [
-    97.19,
     96.53,
     95.31,
     96.15,
@@ -630,6 +629,7 @@
     88.97,
     89.44,
     88.54,
-    87.23
+    87.23,
+    87.43
   ]
 }
