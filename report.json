@@ -1,21 +1,21 @@
 {
   "rpc_healthy": true,
   "epoch": 1098,
-  "absolute_slot": 474462427,
-  "block_height": 452475115,
-  "slot_index": 126427,
+  "absolute_slot": 474689833,
+  "block_height": 452702479,
+  "slot_index": 353833,
   "slots_in_epoch": 432000,
-  "epoch_progress_pct": 29.27,
-  "transactions_count": 568587888401,
-  "epoch_hours_remaining": 34.0,
-  "tps_avg": 1176.3,
-  "slot_time_avg_s": 0.2152,
+  "epoch_progress_pct": 81.91,
+  "transactions_count": 568668902534,
+  "epoch_hours_remaining": 8.7,
+  "tps_avg": 1940.2,
+  "slot_time_avg_s": 0.2148,
   "median_priority_fee_microlamports": 0.0,
   "validators_active": 654,
   "validators_delinquent": 34,
   "total_stake_sol": 424207451.0,
   "delinquent_stake_pct": 0.06,
-  "avg_commission_pct": 13.0,
+  "avg_commission_pct": 13.2,
   "top_validators": [
     {
       "name": "he1iusun\u2026",
@@ -428,14 +428,14 @@
     ],
     [
       1795737600,
-      4678896611
+      4612122277
     ]
   ],
-  "tvl_usd": 4678896611,
-  "tvl_7d_change_pct": -0.68,
-  "tvl_30d_change_pct": -17.82,
-  "stablecoin_supply_usd": 12455055473.0,
-  "stablecoin_supply_usd_pegged_usd": 12371178115.0,
+  "tvl_usd": 4612122277,
+  "tvl_7d_change_pct": -2.1,
+  "tvl_30d_change_pct": -18.99,
+  "stablecoin_supply_usd": 12745072505.0,
+  "stablecoin_supply_usd_pegged_usd": 12663131960.0,
   "dex_volume_history": [
     [
       1793232000,
@@ -551,25 +551,24 @@
     ],
     [
       1795651200,
-      433237280.0
+      870578806.0
     ],
     [
       1795737600,
-      429461578.0
+      885191713.0
     ]
   ],
-  "dex_volume_24h_usd": 429461578.0,
-  "dex_volume_7d_avg_usd": 1344767237.0,
+  "dex_volume_24h_usd": 885191713.0,
+  "dex_volume_7d_avg_usd": 1407244598.0,
   "fees_24h_usd": 332647,
   "fees_30d_usd": 13059009,
-  "sol_price_usd": 72.97,
-  "sol_price_24h_change_pct": 3.07,
-  "sol_market_cap_usd": 43215345144.11737,
-  "collected_at": "2026-11-27 07:14",
-  "collected_at_ts": 1795763654,
-  "tvl_24h_change_pct": 2.0,
+  "sol_price_usd": 72.0,
+  "sol_price_24h_change_pct": 0.99,
+  "sol_market_cap_usd": 42639092941.8991,
+  "collected_at": "2026-11-27 20:48",
+  "collected_at_ts": 1795812497,
+  "tvl_24h_change_pct": -0.17,
   "tps_history": [
-    1376.6,
     1115.5,
     2507.3,
     1461.6,
@@ -598,10 +597,10 @@
     1657.5,
     2412.5,
     1303.8,
-    1839.1
+    1839.1,
+    1176.3
   ],
   "price_history": [
-    75.63,
     75.47,
     69.68,
     71.15,
@@ -630,6 +629,7 @@
     68.46,
     70.42,
     70.8,
-    71.31
+    71.31,
+    72.97
   ]
 }
